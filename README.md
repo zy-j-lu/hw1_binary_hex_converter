@@ -6,6 +6,6 @@ using namespace std;
 
 int main() {
   int n；
-  cin>>"請輸入1~255的數字"
+  cin>>"請輸入十進位1~255的數字"
   cout<<n；
 ｝
