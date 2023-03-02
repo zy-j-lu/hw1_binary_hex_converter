@@ -1,4 +1,3 @@
-# hw1_binary_hex_converter
 #include <iostream>
 #include <string>
 using namespace std;
